@@ -1,0 +1,3 @@
+O(n log n)    // Best case: Balanced partitioning
+O(n^2)        // Average case: Unbalanced partitioning
+O(n^2)        // Worst case: Already sorted array, or nearly sorted array
